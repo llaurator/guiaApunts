@@ -25,6 +25,7 @@ Què pretenem amb tot açò?
 
 |Nombre|Apellidos|
 |------|---------|
+|Luis|Sales|
 |Rufino|Camarena Jiménez|
 |Manuel|Cuevas|
 |Jose P.|Rocher|
